@@ -28,7 +28,7 @@ export default function WelcomeModal() {
       <ModalOverlay />
 
       <ModalContent>
-        <ModalHeader>Welcome to World's Countries</ModalHeader>
+        <ModalHeader>Welcome to World&apos;s Countries</ModalHeader>
         <ModalCloseButton />
         <ModalBody>
           <Tabs index={currentTab}>

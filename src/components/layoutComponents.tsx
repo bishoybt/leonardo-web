@@ -26,7 +26,7 @@ export function Header() {
   return <header>
     <Box margin={10}>
       <Heading>
-        Browse World's Countries
+        Browse World&apos;s Countries
       </Heading>
     </Box>
   </header>;
